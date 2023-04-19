@@ -95,6 +95,7 @@ int main(void)
 	  int a =0 ;
 	  int b = 0;
 	  int K = 0;
+	  int k = 0;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
