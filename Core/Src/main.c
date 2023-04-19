@@ -92,7 +92,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  int a =0 ;
+	  int c =0 ;
 	  int b = 0;
 	  int K = 0;
 	  int k = 0;
