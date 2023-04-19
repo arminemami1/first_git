@@ -93,6 +93,7 @@ int main(void)
   while (1)
   {
 	  int a =0 ;
+	  int b = 0;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
